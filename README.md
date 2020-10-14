@@ -36,7 +36,7 @@
 
 ### Body Copy
 
-1. $font-size: 12px
+1. font-size: 12px
 
 --- 
 
